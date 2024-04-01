@@ -1,0 +1,33 @@
+.caixa_cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.6em 0 0.6em 0;
+    align-items: center;
+}
+
+.categorias_caixa_cabeçalho{
+    display: flex;
+    gap: 2em;
+    padding-right: 10em;
+}
+
+.login_caixa_cabeçalho{
+    display: flex;
+    gap: 1em;
+}
+
+.link_caixa_cabeçalho{
+    text-decoration: none;
+    color: var(--texto-normal);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.botao_link_caixa_cabecalho{
+    color: var(--branco);
+    background-color: var(--botao-texto-destaque);
+    padding: 0.7em 1em;
+    border-radius: 8px;
+
+}
+

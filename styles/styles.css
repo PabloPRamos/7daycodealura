@@ -1,0 +1,24 @@
+@import url(nav.css);
+@import url(quemsomos.css);
+@import url(numeros.css);
+@import url(vagas.css);
+@import url(depoimentos.css);
+@import url(rodape.css);
+
+:root{
+    --branco: #fff;
+    --texto-normal: #667085;
+    --texto-titulo: #101828;
+    --botao-texto-destaque: #8E2424;
+    --fonte: "Inter";
+}
+
+body{
+    background-color: var(--branco);
+    font-family: var(--fonte);
+    font-size: 20px;
+    font-weight: 400;
+
+    padding: 0 4em 0 4em;
+
+}

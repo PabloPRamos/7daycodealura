@@ -1,0 +1,32 @@
+.sobre_nos{
+    padding: 7em 0 7em 0;
+    text-align: center;
+}
+
+.texto_sobre_nos{
+    font-size: 16px;
+    font-family: var(--fonte);
+    font-weight: 600;
+    color: var(--botao-texto-destaque);
+    line-height: 24px;
+}
+
+.titulo_destaque_sobre_nos{
+    font-size: 48px;
+    font-family: var(--fonte);
+    font-weight: 600;
+    color: var(--texto-titulo);
+    line-height: 60px;
+
+    padding-top: 0.4em;
+}
+
+.texto_diferentes_sobre_nos{
+    font-size: 20px;
+    font-family: var(--fonte);
+    font-weight: 400;
+    color: var(--texto-normal);
+    line-height: 30px;
+
+    padding: 0.7em 9em 0 9em;
+}
